@@ -7,7 +7,12 @@
 
 - 👨‍💻 Some of my project works are available at my [GitHub repo](https://github.com/mnshgrwl)
 
-- 📫 You can reach me on [Gmail](mailto:manish.8464@gmail.com)
+<br/>
+
+<h3 align="left">Reach me on:</h3>
+<p align="left">
+<a href="mailto:manish.8464@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="manish.8464" height="30" width="40" /></a>
+</p>
 
 <br/>
 
