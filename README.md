@@ -7,7 +7,7 @@
 
 - 👨‍💻 Some of my project works are available at my [GitHub repo](https://github.com/mnshgrwl)
 
-- 📫 You can reach me on [Gmail](emailto:manish.8464@gmail.com)
+- 📫 You can reach me on [Gmail](mailto:manish.8464@gmail.com)
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1p32W8wgdT2ul91m52U7bonNWCb4ylS3d/view?usp=sharing)
 
