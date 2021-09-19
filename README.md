@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **data visualization, NLP, ASR**
 
-- 👨‍💻 Some of my project works are available at my [GitHub repo](https://github.com/mnshgrwl)
+<br/>
+<h3 align="left">👨‍💻 Some of my project works:</h3>
+<p align="left">
+<a href="https://github.com/mnshgrwl" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GitHub_Mark.png/640px-GitHub_Mark.png" alt="mnshgrwl" height="30" width="40" /></a>
+</p>
 
 <br/>
 
@@ -28,6 +32,6 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnshgrwl&show_icons=true&locale=en&layout=compact" alt="mnshgrwl" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnshgrwl&langs_count=8" alt="mnshgrwl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnshgrwl&show_icons=true&locale=en" alt="mnshgrwl" /></p>
