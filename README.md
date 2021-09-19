@@ -9,8 +9,6 @@
 
 - 📫 You can reach me on [Gmail](mailto:manish.8464@gmail.com)
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1p32W8wgdT2ul91m52U7bonNWCb4ylS3d/view?usp=sharing)
-
 <br/>
 
 <h3 align="left">Connect with me:</h3>
