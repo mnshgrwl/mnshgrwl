@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">NLP & ASR enthusiast | Recommender Systems | Deriving insights from data</h3>
+<h3 align="center">NLP & ASR enthusiast | Recommender Systems | Computer Vision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnshgrwl&label=Profile%20views&color=0e75b6&style=flat" alt="mnshgrwl" /> </p>
 
 - 🌱 I’m currently learning **data visualization, NLP, ASR**
+- 🌱 Deriving insights from data
 
 <br/>
 <h3 align="left">👨‍💻 Some of my project works:</h3>
