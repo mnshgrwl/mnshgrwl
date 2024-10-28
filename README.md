@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnshgrwl&label=Profile%20views&color=0e75b6&style=flat" alt="mnshgrwl" /> </p>
 
-- 🌱 I’m currently learning **data visualization, NLP, ASR**
-- 🌱 Deriving insights from data
-
 <br/>
 <h3 align="left">👨‍💻 Some of my project works:</h3>
 <p align="left">
